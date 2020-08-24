@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I am Michelly Oliveira, I'm 20 years old and live on Brasil.✨
+I am Michelly Oliveira, I'm 20 years old and live in Brasil.✨
 
 ---
 
@@ -14,7 +14,7 @@ I prefer working as a frontend web developer, though I can also work as a fullst
 
 🌱 I love to learn new things and apply the knowledge in pratical stuff.
 
-✨ Listen to music, play videogames, read and crochet are some of my hobbies.
+✨ Listening to music, playing videogames, reading and crocheting are some of my hobbies.
 
 ---
 

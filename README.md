@@ -1,11 +1,8 @@
 ### Hello there 👋
 
-I am Michelly Oliveira, I'm 22 years old and live in Brasil.✨
+I am Michelly Oliveira, I'm software developer and live in Brasil.✨
 
 ---
-
-🌱 I am currently studying web technologies, focusing on the stack: React, React Native and Node, using TypeScript.
-I prefer working as a frontend web developer, though I can also work as a fullstack developer.
 
 🌱 I have a big interest in game development, so I became a member on the HomeTeam GameDev (gamkedo) club, where we make games for browsers using JS for 2D games and Unity for 3D games.
 
